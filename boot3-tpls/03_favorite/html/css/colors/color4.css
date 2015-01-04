@@ -1,0 +1,138 @@
+::selection {background: #d25736;}
+::-moz-selection {background: #d25736;}
+
+
+a:hover, a:focus {color:#d25736;}
+
+.overlay {background-color: rgba(210,87,54,0.4);}
+
+.color_text {color:#d25736;}
+.color_bg {background:#d25736;}
+
+
+/* __________ Buttons __________ */
+.stylereset:hover {background-color:#d25736;}
+.btn:focus, .btn:hover {background-color: #d25736;}
+.btn-dark:hover, .btn-white:hover, .btn-active {background: #d25736;}
+.btn-active:hover {background:#505050;}
+
+/* _________ //Buttons _________ */
+
+
+/* ____________________ Index Page ____________________ */
+
+
+.navbar-nav li a:hover, .navbar-nav li a:focus, .navbar-nav li.active a {color:#d25736;}
+
+
+/* __________ FlexSlider __________ */
+.flex-direction-nav li a {background-color:#d25736;}
+
+/* _________ //FlexSlider _________ */
+
+/* __________ jCarousel __________ */
+.jcarousel-control-prev.inactive:hover, .jcarousel-control-next.inactive:hover {background-color:#d25736;}
+/* _________ //jCarousel _________ */
+
+/* __________ Services __________ */
+.service_item {background-color:#d25736;}
+
+/* _________ //Services _________ */
+
+
+/* __________ Latest Work __________ */
+.projects_block .hover_img {background-color:#d25736;}
+.jcarousel-control-prev, .jcarousel-control-next {background-color:#d25736;}
+/* _________ //Latest Work _________ */
+
+
+/* __________ Latest News __________ */
+.latest_news_item .recent_post {background-color:#d25736;}
+.recent_post_inf a:hover {color:#d25736;}
+footer .latest_news_item:hover .recent_post_title {color:#d25736;}
+/* _________ //Latest News _________ */
+
+
+/* ___________________ //Index Page ___________________ */
+
+
+/* __________ Blog __________ */
+#sidebar .tags a:hover, .tags a:hover {background: #d25736;}
+
+.FlickrImages li a {background-color:#d25736;}
+
+footer .tweet_module .tweet_time a {color:#d25736;}
+
+.tweet_module.index_page {background-color:#d25736;}
+/* _________ //Blog _________ */
+
+
+/* __________ About __________ */
+.breadcrumbs_block {background-color: #d25736;}
+.progress-complete {background: #d25736;}
+/* _________ //About _________ */
+
+
+/* __________ Portfolio __________ */
+#filter li a.selected {background-color:#d25736;}
+.portfolio_block .project .hover_img {background-color:#d25736;}
+.portfolio_block .project:hover .project_descr {border-bottom-color:#d25736;}
+.portfolio_block .project:hover .project_descr h4 a {color:#d25736;}
+/* _________ //Portfolio _________ */
+
+
+/* __________ Shop __________ */
+.product_sort #filter li a:hover, .product_sort #filter li a.selected {color:#d25736;}
+
+#price-range .ui-widget-header {background: #d25736;}
+
+.product_item2:hover {border-color:#d25736;}
+
+.product_inf .btn:hover {background-color:#d25736; border-color:#d25736;}
+
+.variable-sizes .product_item .item_btn_in a.btn:hover {background-color:#d25736;}
+
+.sale {background-color:#d25736;}
+
+.type2 .product_price {color:#d25736;}
+.quantity_block .product_inf .btn.add_cart {border-color:#d25736; color:#d25736;}
+.quantity_block .product_inf .btn.add_cart:hover {border-color:#d25736; background-color:#d25736;}
+/* _________ //Shop _________ */
+
+
+/* __________ Shortcodes __________ */
+#accordion .ui-accordion-header:hover, #accordion .ui-accordion-header.ui-accordion-header-active, .shortcode_toggles_item_title:hover, .shortcode_toggles_item_title .ui-state-active {background:#d25736;}
+.nav-tabs li a:hover {color:#d25736;}
+.divider_colored {border-color:#d25736;}
+
+.most_popular .price_item_btn a, .price_item_btn a:hover {background:#d25736;}
+.most_popular .price_item_title {background:#d25736;}
+.most_popular .price_item_cost h2, .most_popular .price_item_cost h2 span {color:#d25736;}
+/* _________ //Shortcodes _________ */
+
+
+/* __________ Footer __________ */
+footer h3 {color:#d25736;}
+.copyright span {color:#d25736;}
+/* _________ //Footer _________ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

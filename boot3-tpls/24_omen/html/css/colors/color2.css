@@ -1,0 +1,177 @@
+::selection {background: #0dd596;}
+::-moz-selection {background: #0dd596;}
+
+
+a:hover, a:focus {color:#0dd596;}
+
+.color_text {color:#0dd596;}
+
+.color_bg {background-color:#0dd596;}
+
+.overlay {background-color: rgba(13,213,150,0.94);}
+
+
+/* __________ Buttons __________ */
+.btn {background: #505050 !important;}
+.btn:hover {background-color:#0dd596 !important;}
+
+.btn-active {background-color:#0dd596 !important;}
+.btn-active:hover {background-color:#505050 !important;}
+
+.btn-white {color:#505050 !important; background-color:#fff !important;}
+.btn-white:hover {color:#333 !important; background-color:#fff !important;}
+
+.btn-light {color:#fff !important; background-color:#aeaeae !important;}
+.btn-light:hover {background-color:#333 !important;}
+
+.btn-dark {color:#fff !important; background-color:#505050 !important;}
+.btn-dark:hover {background-color:#333 !important;}
+
+.btn-primary {color:#fff !important; background-color:#428bca !important;}
+.btn-primary:hover {background-color:#505050 !important;}
+
+.btn-success {color:#fff !important; background-color:#5cb85c !important;}
+.btn-success:hover {background-color:#505050 !important;}
+
+.btn-info {color:#fff !important; background-color:#46b8da !important;}
+.btn-info:hover {background-color:#505050 !important;}
+
+.btn-warning {color:#fff !important; background-color:#eea236 !important;}
+.btn-warning:hover {background-color:#505050 !important;}
+
+.btn-danger {color:#fff !important; background-color:#d9534f !important;}
+.btn-danger:hover {background-color:#505050 !important;}
+
+
+.leave_comment .clear_form, .contacts_block #ajax-contact-form .clear_form {background-color:#0dd596;}
+
+
+/* _________ //Buttons _________ */
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	INDEX PAGE
+/*-----------------------------------------------------------------------------------*/
+.top_info .glyphicon {background-color:#0dd596;}
+
+
+.navbar-nav li:hover a, .navbar-nav li a:focus, .navbar-nav li.active a {color:#0dd596;}
+.sub-menu ul li a:hover, .sub-menu ul li.active a {background:#0dd596 !important;}
+ul.mega_menu li ol li.active a, ul.mega_menu li ol li a:hover {color:#0dd596 !important;}
+
+@media (max-width: 767px) {
+	.sub-menu ul li a {color:#797979 !important;}
+	.sub-menu ul li.active a, .sub-menu ul li a:hover {color:#333 !important; background:none !important;}
+
+}
+
+
+.project_item .hover_img {background: #0dd596;}
+
+
+
+/*-----------------------------------------------------------------------------------*/
+/*	//INDEX PAGE
+/*-----------------------------------------------------------------------------------*/
+
+
+.navbar-toggle:hover em {background-color:#0dd596;}
+
+
+
+/* __________ Blog __________ */
+#sidebar .tags a:hover, .tags a:hover {background: #0dd596;}
+.tags a:hover {background-color:#0dd596;}
+
+.FlickrImages li a {background-color:#0dd596;}
+
+footer .tweet_module .tweet_time a {color:#0dd596;}
+
+.tweet_module.index_page {background-color:#0dd596;}
+/* _________ //Blog _________ */
+
+
+/* __________ About __________ */
+/* __________ Skills __________ */
+.progress-complete {background: #0dd596;}
+/* _________ //About _________ */
+
+
+/* __________ Portfolio __________ */
+#filter li a.selected {background-color:#0dd596;}
+.portfolio_block .project .hover_img {background-color:#0dd596;}
+.portfolio_block .project:hover .project_descr {border-bottom-color:#0dd596;}
+/* _________ //Portfolio _________ */
+
+
+/* __________ Shop __________ */
+.product_sort #filter li a:hover, .product_sort #filter li a.selected {color:#0dd596;}
+
+#price-range .ui-widget-header {background: #0dd596;}
+
+.product_item2:hover {border-color:#0dd596;}
+
+.product_inf .btn:hover {background-color:#0dd596; border-color:#0dd596;}
+
+.variable-sizes .product_item .item_btn_in a.btn:hover {background-color:#0dd596;}
+
+.sale {background-color:#0dd596;}
+
+.type2 .product_price {color:#0dd596;}
+.quantity_block .product_inf .btn.add_cart {border-color:#0dd596; color:#0dd596;}
+.quantity_block .product_inf .btn.add_cart:hover {border-color:#0dd596; background-color:#0dd596;}
+/* _________ //Shop _________ */
+
+
+/* __________ Shortcodes __________ */
+.nav-tabs li a:hover {color:#0dd596;}
+.divider_colored {border-color:#0dd596;}
+
+.most_popular .price_item_btn a, .price_item_btn a:hover {background:#0dd596;}
+.most_popular .price_item_title {background:#0dd596;}
+
+blockquote.type3:before {background-color:#0dd596;}
+/* _________ //Shortcodes _________ */
+
+
+/* __________ Footer __________ */
+footer h3 {color:#0dd596;}
+
+.foot_links li span {color:#0dd596;}
+
+.copyright span {color:#0dd596;}
+/* _________ //Footer _________ */
+
+
+.search_form input.search_btn {background-color:#0dd596 !important;}
+
+
+.jCarousel_pagination a:hover {background-color:#0dd596;}
+
+
+.most_popular .price_item_cost h2,
+.most_popular .price_item_cost h2 span {
+	color:#0dd596;
+}
+
+
+.jcarousel-pagination a.active {
+	background-color:#0dd596;
+	border-color:#0dd596;
+}
+
+.flex-control-paging li a:hover {background-color:#0dd596;}
+.flex-control-paging li a.flex-active {background-color:#0dd596;}
+
+footer input.contact_btn:hover {background-color:#0dd596;}
+
+
+
+
+
+
+
